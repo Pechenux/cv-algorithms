@@ -18,7 +18,7 @@ pip3 install -r requirements.txt
 python3 <path/to/task>
 ```
 
-i.e.:
+e.g.:
 
 ```python
 python3 src/01.py
